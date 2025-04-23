@@ -72,7 +72,7 @@ void decrypt(char message[], int shift) {
 
 
 ## Output:
-![Screenshot 2024-11-11 181810](https://github.com/user-attachments/assets/32399712-57a8-4c90-906c-f3db01aec84d)
+![image](https://github.com/user-attachments/assets/6e6fb2e8-bc3e-4d95-b62c-7a00c44743a3)
 
 
 ## Result:
